@@ -162,6 +162,10 @@ plt.show()
 ## Output
 
 ```text
+<img width="172" height="347" alt="image" src="https://github.com/user-attachments/assets/f40f39c3-ce33-4bdc-b364-73713bb3cb80" />
+
+<img width="671" height="427" alt="image" src="https://github.com/user-attachments/assets/176a1dae-9d06-47cb-91b1-7b4b5f2da990" />
+
 
 ```
 
