@@ -160,16 +160,12 @@ plt.colorbar()
 plt.show()
 ```
 ## Output
+<img width="172" height="347" alt="Screenshot 2026-05-21 091851" src="https://github.com/user-attachments/assets/5da1249a-4108-426e-ac37-04f241315955" />
 
-```
-<img width="172" height="347" alt="WhatsApp Image 2026-05-21 at 9 22 12 AM" src="https://github.com/user-attachments/assets/50e0a871-9d82-4de7-91cc-488537675fbe" />
-
-
-<img width="671" height="428" alt="Screenshot 2026-05-21 091734" src="https://github.com/user-attachments/assets/ec6d1511-10fd-49d1-9ef8-5282a9f4bcaa" />
-
-```
 
 ### Output Graph
+<img width="671" height="428" alt="Screenshot 2026-05-21 091734" src="https://github.com/user-attachments/assets/f3cb9d4c-99c3-4114-a332-365bedfddd0f" />
+
 
 The following heatmap is generated for the estimated state-value function:
 
