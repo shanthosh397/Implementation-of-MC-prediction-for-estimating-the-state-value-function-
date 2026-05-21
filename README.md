@@ -161,8 +161,9 @@ plt.show()
 ```
 ## Output
 
-```text
-<img width="172" height="347" alt="Screenshot 2026-05-21 091851" src="https://github.com/user-attachments/assets/0698e621-e258-4c60-88c4-aa3494131da0" />
+```
+<img width="172" height="347" alt="WhatsApp Image 2026-05-21 at 9 22 12 AM" src="https://github.com/user-attachments/assets/50e0a871-9d82-4de7-91cc-488537675fbe" />
+
 
 <img width="671" height="428" alt="Screenshot 2026-05-21 091734" src="https://github.com/user-attachments/assets/ec6d1511-10fd-49d1-9ef8-5282a9f4bcaa" />
 
